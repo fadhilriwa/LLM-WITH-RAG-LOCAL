@@ -1,0 +1,11 @@
+gradio
+gradio-client
+fpdf
+PyPDF2
+langchain
+langchain-community
+langchain-ollama
+ollama
+requests
+chromadb
+PyMuPDF
